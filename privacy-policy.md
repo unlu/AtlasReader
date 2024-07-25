@@ -1,4 +1,4 @@
-_Last updated: July 26, 2024_
+**Privacy Policy**
 
 Atlas Reader was built with privacy in mind. Your snippets are stored locally on your device. If you have iCloud Sync enabled, your snippets will be synced to your iCloud account. You are the only person who can access this data. We do not track you, sell personal data or embed ad networks in the app.
 
@@ -13,3 +13,5 @@ Atlas Reader is designed with your privacy in mind. Therefore, we do not collect
 ### How We Use Your Information
 
 Since Atlas Reader does not collect, store, or access any user data, there are no means or purposes for which we could use personal information. All data managed by the app is exclusively controlled and accessed by the user, with no third-party access facilitated by Atlas Reader.
+
+_Last updated: July 26, 2024_
