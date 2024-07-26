@@ -1,6 +1,6 @@
 **Terms & Conditions**  
 
-App Store Screenshot Studio is a free app, but require you to subscribe to access all features.
+Atlas Reader is a free app, but require you to subscribe to access all features.
 These subscriptions are processed and managed by Apple, and you can read more about that in [Apple's support article](https://support.apple.com/en-us/HT202023).
 If you purchase our products from the App Store, [Apple's Terms of Use (EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) applies.
 
